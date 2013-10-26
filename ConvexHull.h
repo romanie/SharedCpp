@@ -1,5 +1,5 @@
 #ifdef SHTRIX 
-#include "/Users/roman/Dev/SharedCpp/DebugOutput.h"
+#include "DebugOutput.h"
 #endif
 #include <vector>
 #include <algorithm>
