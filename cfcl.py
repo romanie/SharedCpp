@@ -1,6 +1,4 @@
 #!/usr/bin/python
-# TODO:
-#--add submiter
 
 import argparse
 import sys
